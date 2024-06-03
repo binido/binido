@@ -1,6 +1,6 @@
 # Hi, I'm a Junior Developer 👋
 
-Welcome to my GitHub profile! My name is [Your Name], and I'm a passionate developer eager to learn and grow in the world of programming. Here you'll find the projects I'm working on and the technologies I'm exploring.
+Welcome to my GitHub profile! My name is Artyom, and I'm a passionate developer eager to learn and grow in the world of programming. Here you'll find the projects I'm working on and the technologies I'm exploring.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=binido&color=blueviolet)
 
@@ -28,12 +28,7 @@ Welcome to my GitHub profile! My name is [Your Name], and I'm a passionate devel
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your_profile)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your_username)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your_email)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:zename9@gmail.com)
 
-## 💼 My Projects
-
-- [Project 1](https://github.com/binido/project1): Brief description of the project.
-- [Project 2](https://github.com/binido/project2): Brief description of the project.
-- [Project 3](https://github.com/binido/project3): Brief description of the project.
 
 Thank you for visiting my profile! I'm open to collaboration and discussions on new ideas.
